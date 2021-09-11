@@ -1,0 +1,17 @@
+{
+  "name": "hacking-caixa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings ./index.js"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.0.0",
+    "puppeteer": "^10.2.0",
+    "sleep": "^6.3.0",
+    "uuid": "^8.3.2"
+  }
+}
